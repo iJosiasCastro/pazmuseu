@@ -1,4 +1,6 @@
-# PazMuseu - Museum Tourguide Website
+<h1 align="center">
+  PazMuseu - Museum Tourguide Website
+</h1>
 
 ![demo](https://github.com/iJosiasCastro/pazmuseu/blob/master/demo/screenshot.png?raw=true)
 
