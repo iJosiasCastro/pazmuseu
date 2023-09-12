@@ -6,7 +6,7 @@
 
 ## Introduction
 
-PazMuseu is a website developed for the 2022 Technical Computing Olympiad in the province of Buenos Aires. The primary objective of this website is to serve as a comprehensive tour guide for a museum. It provides information about each exhibition available in the museum and allows visitors to sign up for guided tours, displaying various available tour dates. The system also sends email notifications for tour confirmations, cancellations, and postponements. Additionally, guides can access the platform to view the list of registered visitors and other relevant information.
+PazMuseu is a website developed for the 2020 Technical Computing Olympiad in the province of Buenos Aires. The primary objective of this website is to serve as a comprehensive tour guide for a museum. It provides information about each exhibition available in the museum and allows visitors to sign up for guided tours, displaying various available tour dates. The system also sends email notifications for tour confirmations, cancellations, and postponements. Additionally, guides can access the platform to view the list of registered visitors and other relevant information.
 
 ## Project Database Schema
 
